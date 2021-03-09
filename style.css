@@ -1,0 +1,19 @@
+body {
+	font-size: 1.5em;
+}
+
+button {
+	margin: 5px;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+li {
+  margin: 5px;
+}
+
+li > button {
+  margin: 0px 20px;
+}
