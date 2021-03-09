@@ -65,3 +65,4 @@ for(var i = 0; i < doneButtons.length; i++){
 
 
 // notice how event functions are without the ending (). these are called callback functions and they are only here as reference to the actual function so that they only run when the event occurs. 
+// check this
